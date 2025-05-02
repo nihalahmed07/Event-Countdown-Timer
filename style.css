@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    text-align: center;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  }
+  
+  input[type="datetime-local"] {
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #0077ff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #countdown {
+    font-size: 2rem;
+    margin-top: 20px;
+  }
+  
