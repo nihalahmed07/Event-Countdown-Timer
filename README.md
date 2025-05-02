@@ -18,10 +18,10 @@ A simple countdown timer built using TypeScript.
     ```bash
     npm install -g typescript
     ```
+3. Compile:
+   ```bash
+   npm install -g typescript
+   ```
 
-3.Compile:
-     ```bash
-     npm install -g typescript
-     ```
+4. Open index.html in your browser.
 
-4.Open index.html in your browser.
